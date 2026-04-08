@@ -6,3 +6,4 @@ matplotlib
 seaborn
 notebook
 langchain
+langchain_openai
